@@ -1,0 +1,43 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;   
+}
+.title{
+    /* text-align: center; */
+    
+    position: absolute;
+    top: 10%;
+    left: 15%;  
+    color: rgb(46, 20, 20)  
+}
+a{
+    color: rgb(238, 228, 228);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.logo{
+ width: 50%;
+ 
+} 
+.nav-link .nav-item
+{
+    color: rgb(218, 101, 101);
+}
+img{
+    width: 100%;
+    height: 100%
+}
+.hero-img{
+    width: 100%;
+    height: 500px;
+    background-image: url('../img/ride_shop_homepage.jpg');
+    background-color: white;
+    /* padding-top: 10%;  */
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}

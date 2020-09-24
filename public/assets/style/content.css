@@ -1,0 +1,18 @@
+.content{
+width: 100%;
+height: auto;
+border-style: solid;
+border-radius: 5px;
+border-color: black;
+}
+.photo-content{
+width: 100%;
+height: auto;
+background-color: black;
+}
+.home-content{
+    margin-top: 10%;
+}
+a{
+    color: white;
+}
