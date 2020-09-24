@@ -8,7 +8,7 @@ html,body{
     
     position: absolute;
     top: 10%;
-    left: 15%;  
+    left: 9%;  
     color: rgb(46, 20, 20)  
 }
 a{
@@ -18,8 +18,13 @@ a{
 }
 .logo{
  width: 50%;
- 
+ position: absolute;
+ top: 10%;
+ left: 1%;
 } 
+.show{
+    display:none;
+}
 .nav-link .nav-item
 {
     color: rgb(218, 101, 101);
@@ -41,3 +46,16 @@ img{
     margin: 0;
     padding: 0;
 }
+
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: lightblue;
+    }
+    .hide{
+        display: none;
+    }
+    .show{
+        display: block;
+        width: 10%;
+    }
+  }
