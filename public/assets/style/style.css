@@ -48,9 +48,6 @@ img{
 }
 
 @media only screen and (max-width: 800px) {
-    body {
-      background-color: lightblue;
-    }
     .hide{
         display: none;
     }
