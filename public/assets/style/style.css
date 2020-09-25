@@ -39,12 +39,12 @@ img{
 }
 .hero-img{
     width: 100%;
-    height: 500px;
+    height: 100%;
     background-image: url('../img/ride_shop_homepage.jpg');
     background-color: white;
     /* padding-top: 10%;  */
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     margin: 0;
@@ -57,6 +57,6 @@ img{
     }
     .show{
         display: block;
-        width: 10%;
+        width: 20%;
     }
   }
