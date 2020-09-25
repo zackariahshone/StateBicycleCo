@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,V){"use strict";Object.defineProperty(V,"__esModule",{value:!0}),V.PROJECT="workflows_painted_door",V.allowedVariants=["V1","V2","V3","V4","V5","V6"],(function(e){e.V1="V1",e.V2="V2",e.V3="V3",e.V4="V4",e.V5="V5",e.V6="V6"})(V.AllowedVariant||(V.AllowedVariant={})),(function(e){e.INVITE="invite",e.SHARE_FOLDER="share_folder",e.SHARE_FILE_OR_FOLDER="share_file_or_folder"})(V.ActionSource||(V.ActionSource={}))}));
+//# sourceMappingURL=constants.min.js-vflTKCFub.map

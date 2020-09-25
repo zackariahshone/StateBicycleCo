@@ -1,3 +1,8 @@
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Rajdhani', sans-serif; */
+
+
 .content{
 width: 100%;
 height: auto;
@@ -15,4 +20,16 @@ background-color: black;
 }
 a{
     color: white;
+}
+.card-title{
+    text-align: center;
+    /* font-family: 'Amatic SC', cursive; */
+    font-weight: bolder;
+    /* font-family: 'Architects Daughter', cursive; */
+}
+.card-text{
+
+font-family: 'Rajdhani', sans-serif;
+
+
 }
