@@ -9,9 +9,9 @@ html,body{
 }
 .title{
     /* text-align: center; */
-    width:50%;
+    width:25%;
     position: absolute;
-    top: 5%;
+    top: 7%;
     left: 0%;  
     color: rgb(46, 20, 20)  
 }
