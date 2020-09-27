@@ -21,14 +21,14 @@ h5{
 
 }
 .bike-img{
- height: 100%;
+ height: 50%;
  width: 100%;
  background-image: url("../img/Elliston_Deli.jpg");
  background-attachment: fixed;
  background-repeat: no-repeat;
 }
 .board-image{
- height:100%;
+ height:50%;
  width: 100%;
  background-image: url("../img/skate_boards.jpg");
  background-attachment: fixed;
