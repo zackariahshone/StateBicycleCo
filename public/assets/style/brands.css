@@ -1,13 +1,27 @@
-.acc-hero{
+h5{
+    text-align: center;
+}
+
+.card-title{
+    font-size: 40px;
+}
+.card{
+    border: none;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 3px solid black;
 
 }
-.app-hero{
-
+.bike-img{
+ height: 300px;
+ width: 200%;
+ background-image: url("../img/Elliston_Deli.jpg");
+ background-attachment: fixed;
+ background-repeat: no-repeat;
 }
-.bike-hero{
-
-    background-image: url('../img/Elliston_Deli.jpg');
-    background-attachment: fixed;
-    background-size: ;
-
+.board-image{
+ height: 300px;
+ width: 100%;
+ background-image: url("../img/skate_boards.jpg");
+ background-attachment: fixed;
 }
