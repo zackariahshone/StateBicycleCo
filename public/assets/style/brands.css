@@ -31,8 +31,9 @@ h5{
 .board-image{
  height:100%;
  width: 100%;
- background-image: url("../img/skate_boards.jpg");
+ background-image: url("../img/ride_shop_boards.jpg");
  background-attachment: fixed;
+ background-size: cover;
 }
 .parts-img{
     height: 100%;
