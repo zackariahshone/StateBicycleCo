@@ -51,6 +51,12 @@ img{
     padding: 0;
 }
 
+@media only screen and (max-width: 900px) {
+    .hero-img{
+        height: 85%;
+    }
+}
+
 @media only screen and (max-width: 800px) {
     .hide{
         display: none;
@@ -59,7 +65,5 @@ img{
         display: block;
         width: 20%;
     }
-    .hero-img{
-        height: 85%;
-    }
+   
   }
