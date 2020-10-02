@@ -35,8 +35,8 @@ h5{
  width: 100%;
  background-image: url("../img/ride_shop_boards.jpg");
  background-attachment: fixed;
- /* background-repeat: no-repeat; */
- /* background-size: cover; */
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 .parts-img{
     height: 100%;
