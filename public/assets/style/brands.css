@@ -27,8 +27,8 @@ h5{
  background-attachment: fixed;
  background-repeat: no-repeat;
  background-size: cover;
- -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
- clip-path: polygon(100% 85%, 100% , 100% 85%, 100% 100%);
+ -webkit-clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+ clip-path: polygon(0 10%, 100% , 100% 85%, 100% 100%);
 }
 .board-image{
  height:100%;
@@ -57,8 +57,13 @@ h5{
 .text-box{
     text-align: center;
     height: auto;
-    width: 40%;
+    width: 50%;
     background-color: rgb(11, 151, 156);
     opacity: 80%;
     font-size: 35px;
+    position: relative;
+    top: 50%;
+    left: 40%;
+    
+    
 }
