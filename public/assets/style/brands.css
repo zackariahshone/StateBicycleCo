@@ -7,7 +7,7 @@ h5{
     height: 109%;
     background-image: url('../img/inside_ride_shop.jpeg');
     background-color: white;
-    /* padding-top: 10%;  */
+    padding-top: 10%; 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -47,7 +47,7 @@ h5{
  background-size: cover;
  -webkit-clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 100%);
  clip-path: polygon(0 15%, 100% , 100% 85%, 100% 100%);
- margin-top: -10%;
+ /* margin-top: -10%; */
 }
 .board-image{
  height:100%;

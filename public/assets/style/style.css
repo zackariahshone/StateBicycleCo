@@ -8,12 +8,15 @@ html,body{
     height: 100%;   
     /* overflow: hidden; */
 }
+.navbar a{
+    float: right;
+}
 .title{
     /* text-align: center; */
-    width:25%;
+    width:55%;
     position: absolute;
-    top: 7%;
-    left: 0%;  
+    top: 30%;
+    left: 25%;  
     color: rgb(46, 20, 20)  
 }
 a{
@@ -22,9 +25,9 @@ a{
     margin-right: 15px;
 }
 .logo{
- width: 50%;
+ width: 100%;
  position: absolute;
- top: 10%;
+ top: 15%;
  left: 1%;
 } 
 .show{
