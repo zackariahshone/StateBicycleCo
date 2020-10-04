@@ -40,12 +40,14 @@ h5{
  height: 100%;
  width: 100%;
  background-image: url("../img/Elliston_Deli.jpg");
+ 
+/* background-color: black; */
  background-attachment: fixed;
  background-repeat: no-repeat;
  background-size: cover;
  -webkit-clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 100%);
- clip-path: polygon(0 10%, 100% , 100% 85%, 100% 100%);
- margin-top: -5%;
+ clip-path: polygon(0 15%, 100% , 100% 85%, 100% 100%);
+ margin-top: -10%;
 }
 .board-image{
  height:100%;
