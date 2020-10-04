@@ -90,9 +90,4 @@ h5{
                height: 50%;
                background-attachment: scroll;
            }
-           .hero-img{
-            background-size: 200%;
-            height: 100%;
-            background-attachment: fixed;
-           }
         }
