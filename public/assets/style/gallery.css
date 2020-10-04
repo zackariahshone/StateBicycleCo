@@ -19,3 +19,9 @@ img{
     width: 100%;
     height: auto;
 }
+@media only screen and (max-width: 800px) {
+  
+    .hero-gallery{
+        background-position: 70% 10% ;
+    }
+ }
