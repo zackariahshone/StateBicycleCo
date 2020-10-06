@@ -8,6 +8,9 @@ html,body{
     height: 100%;   
     /* overflow: hidden; */
 }
+.navbar{
+    background-color: rgb(111, 235, 240);
+}
 .navbar a{
     float: right;
 }
