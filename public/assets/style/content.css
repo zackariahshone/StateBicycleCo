@@ -49,3 +49,10 @@ font-family: 'Rajdhani', sans-serif;
 
 
 }
+
+@media only screen and (max-width: 750px){
+    .hero-gallery{
+        height: 100%;
+        background-attachment: scroll;
+    }
+}

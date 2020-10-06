@@ -13,3 +13,10 @@
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
     clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
+
+@media only screen and (max-width: 750px){
+    .contact-img{
+        height: 100%;
+        background-attachment: scroll;
+    }
+}
